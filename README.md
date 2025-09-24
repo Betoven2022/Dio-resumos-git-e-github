@@ -22,7 +22,7 @@ Repositório para armazenar resumos sobre Git e Github do curso versionamento de
 
 
 
-| Aulas | Resumos |
+| Aulas | Resumo |
 
 |-------|----------|
 
